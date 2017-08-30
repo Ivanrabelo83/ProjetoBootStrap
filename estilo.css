@@ -1,0 +1,78 @@
+.img-logo{
+	height: 70px;
+	width: 100px;
+	background: url('imagens/logo.png')no-repeat;
+	display: block;
+	background-size: contain;
+	margin-top: -7px;
+}
+
+nav.navbar-transparente{
+	padding: 15px 0px;
+	background: rgba(0,0,0,0.6);
+	border: none;
+
+
+}
+.navbar-brand{
+	padding: 0px;
+
+}
+
+.divisor{
+	width: 1px;
+	height: 16px;
+	background: white;
+	margin: 16px 10px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+        color: white;
+
+}
+.navbar-inverse .navbar-nav>li>a:hover {
+        color: #9bf0e1;
+
+}
+
+body{
+	
+	background: url('imagens/imagem.jpg');
+	font-family: Helvetica,Arial,sans-serif;
+
+
+}
+
+.capa{
+	margin-top: 300px;
+
+
+
+
+
+}
+.texto-capa{
+	text-align: center;
+	color: white;
+	
+
+}
+
+
+h1{
+	font-size: 80px;
+	font-weight: 100;
+	
+
+}
+/*.btn-lg{
+	
+    margin-top: 200px;
+    margin-right: 441px;
+    background: none;
+    border-radius: 48px;
+    padding-right: 33px;
+    padding-left: 33px;
+    border-color: white;
+
+}*/
